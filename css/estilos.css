@@ -1,0 +1,31 @@
+.tip{
+    color: aquamarine;
+
+
+}
+
+.top{
+    color: rosybrown;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.main{
+    font-family: Arial, Helvetica, sans-serif;
+
+    display: flex;
+    justify-content: center;
+}
+
+.body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.Vinilos{
+    width: 250px;
+    height: 250px;
+    left: 250px;
+    right: 250px;
+
+}
+
